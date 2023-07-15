@@ -25,7 +25,7 @@
       <id>nexusRepo</id>
       <url>http://ec2-35-172-236-68.compute-1.amazonaws.com:8081/repository/TestMavenJavaRepo-Releases/</url>
     </repository>
-  </distributionManagment>
+  </distributionManagement>
     
   <build>
     <finalName>01-maven-web-app</finalName>
