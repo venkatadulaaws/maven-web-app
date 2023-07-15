@@ -19,11 +19,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexusRepo</id>
-      <url>http://ec2-35-172-236-68.compute-1.amazonaws.com:8081/repository/TestMavenJavaRepo-Snapshot/</url>
+      <url>http://35.172.236.68:8081/repository/TestMavenJavaRepo-Snapshot/</url>
     </snapshotRepository>
      <repository>
       <id>nexusRepo</id>
-      <url>http://ec2-35-172-236-68.compute-1.amazonaws.com:8081/repository/TestMavenJavaRepo-Releases/</url>
+      <url>http://35.172.236.68:8081/repository/TestMavenJavaRepo-Releases/</url>
     </repository>
   </distributionManagement>
     
